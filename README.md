@@ -1,23 +1,23 @@
 <div align="center">
 	<h3>👧🏻POPKID-MD WHATSAPP BOT👧🏻</h3>
-<img src="https://telegra.ph/file/4fe5da5003e390a58de5f.jpg" width="300" height="150">
+<img src="https://files.catbox.moe/21r9fg.jpg" width="300" height="300">
 </div>
 <div align="center">
 </p>
 	
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+POPKID+APP+MD+DEVELOPER)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+JAMES+APP+MD+DEVELOPER)](https://git.io/typing-svg)
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Popkid-MD...;Created+by+Popkid...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Popkid-MD..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+JAMES-MD...;Created+by+JAMES...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+JAMES-MD..."
             alt="Typing">
 
 <div align="center">
-	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="popkid">
+	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="JAMES">
 </div>
 
 <hr>
 
-			Popkid-MD බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
+			JAMES-MD බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
        
 <h3>🌸 How To Deploy </h3>
 
@@ -186,39 +186,3 @@ jobs:
 
 <h5>🌸 TOTAL WEB VIEWS</h5>
 <img src="https://profile-counter.glitch.me/Popkiddevs/count.svg" center>
-
-<hr>
-
-<div align="center">
-<h3>🌸 POPKID-MD Developer Team 👤</h3>
-
-| POPKIDDEVS 👤              | POPKID 👤              | KING-POP 👤            |
-|---------------------|---------------------|---------------------|
-[![Owner](https://telegra.ph/file/4fe5da5003e390a58de5f.jpg)](https://github.com/Popkiddevs/POPKID-BOT/) | [![POPKID-DEVS](https://telegra.ph/file/4fe5da5003e390a58de5f.jpg)](https://github.com/sadiyamin/Alexa) | [![POPKID](https://telegra.ph/file/4fe5da5003e390a58de5f.jpg)](https://github.com/sadiyamin/Alexa/) |
-| DEVELOPER & FOUNDER | MODULE CREATE | BUG TESTER |
-</div>
-<hr>
-
-<hr>
-
-<div align="center">
-    
-| Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
-|----------------------|----------------------|----------------------|---------------------|---------------------|---------------------|
-| [![Owner](https://img.shields.io/badge/Author-sSadeesha-red.svg)](https://github.com/sadiyamin/Alexa/) | [![Repository](https://img.shields.io/badge/Repo-Alexa-red.svg)](https://github.com/sadiyamin/Alexa) | [![GitHub forks](https://badgen.net/github/forks/sadiyamin/Alexa/)](https://GitHub.com/sadiyamin/Alexa/network/) | [![GitHub stars](https://badgen.net/github/stars/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/PikaBotz/anya_v2-md.svg)](https://github.com/sadiyamin/Alexa/blob/master/LICENSE) 
-
-| Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
-|---------------------|---------------------|---------------------|
-| [![GitHub release](https://img.shields.io/github/release/sadiyamin/Alexa.svg)](https://GitHub.com/sadiyamin/Alexa/releases/) | [![GitHub latest commit](https://badgen.net/github/last-commit/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/commit/) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://GitHub.com/sadiyamin/Alexa/graphs/commit-activity) |
-
-
-</div>
-
-<h5>Thank You For Using Lara-MD 💗</h5>
-
-<hr>
-
-<h3>⚠️ Warning!</h3>
-
-<h5>Because of user bots; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, Lara-MD executives do not take responsibility. By setting up Lara-MD Bot you are considered to have assumed these responsibilities.</h5>
-<hr>
